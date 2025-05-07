@@ -1,0 +1,37 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fff;
+  }
+  
+  .hero-section {
+    padding: 60px 0;
+  }
+  
+  .btn-pink {
+    background-color: #f9d8d8;
+    color: #000;
+    border: none;
+    transition: all 0.3s ease;
+  }
+  
+  .btn-pink:hover {
+    background-color: #f7c1c1;
+    color: #000;
+  }
+  
+  .rating-box {
+    background-color: #f9d8d8;
+    padding: 10px 20px;
+    border-radius: 8px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .hero-img {
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  

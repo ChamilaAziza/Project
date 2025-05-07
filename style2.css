@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .bg-pink {
+    background-color: #e25959;
+    padding: 5px 10px;
+  }
+  
+  .btn-pink {
+    background-color: #be4848;
+    color: black;
+    border: none;
+    font-weight: bold;
+  }
+  
+  .btn-pink:hover {
+    background-color: #f0c4c4;
+    color: rgb(211, 86, 86);
+  }
+  
+  .chart-box {
+    font-size: 0.9rem;
+    width: 140px;
+  }
+  
+  .icon-small {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    display: inline-block;
+  }
+  
+  .check-icon1, .check-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    border: 2px solid #f9d7d7;
+    background-color: #fff; 
+    color: #28a745; 
+    border-radius: 50%; 
+    font-size: 1rem; 
+  }
